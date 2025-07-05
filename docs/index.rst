@@ -6,11 +6,11 @@ How Do I Access My Dragon Naturally Speaking Login Account?
    :caption: Contents:
 Discover how to easily log in to your Dragon Naturally Speaking login account and manage your voice recognition profile, settings, and preferences.
 
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: Dragon Naturally Speaking Login Account
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/dragon-naturally-speaking-login
+   :target: https://dragonnaturallyspeakingaccount.com/
 
 When it comes to high-quality, user-friendly speech recognition software, few can compare to Dragon Naturally Speaking.  This program, created by Nuance, enables users to effortlessly and accurately dictate documents, navigate their devices, and carry out hands-free computer operations.  You may be asking what steps are necessary to access your Dragon Naturally Speaking account if you're either new to the program or haven't used it in a while.  Read on to learn how to do it, why it's important, and what to do once you're in your account.
 
