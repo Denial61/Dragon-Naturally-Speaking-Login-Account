@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://dragonnaturallyspeakingaccount.com">
+
 How Do I Access My Dragon Naturally Speaking Login Account?
 ============================================
 
